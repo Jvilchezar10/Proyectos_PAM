@@ -1,1 +1,15 @@
 # Proyectos_PAM
+En este repositorio podra encontrar mis actividades relacionadas a "Android Studio"
+de las sesiones de clase.
+
+--> claro que no son tan complejas, por lo mismo de que me no tengo los recursos 
+para realizar proyectos con un gran peso, sin que se detenga la laptop por uso de
+la ram y puede que tarde un poco mas en terminarlos.
+
+--> La carpetas estan separadas por sesiones y si quiere descargar una de forma 
+ individual, pulse la combinacion "ALT+Click" 
+
+Esto es todo lo que tengo que comentar.
+
+                           Atte.
+                    Juan Vilchez Araujo.
