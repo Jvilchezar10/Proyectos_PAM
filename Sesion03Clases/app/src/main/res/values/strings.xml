@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sesion03</string>
+    <string name="txt_reg">Ir Ejemplo Registrar</string>
+    <string name="hint_nombre">Ingresar un Nombre</string>
+    <string name="hint_ape">Ingresar Apellidos</string>
+    <string name="txt_ape">Apellidos</string>
+    <string name="txt_tit">Ejemplo de Formulario</string>
+    <string name="hint_correo">Ingresar Correo Eletronico</string>
+    <string name="txt_bt">Mostrar</string>
+    <string name="txt_sp">Ir Ejemplo Spinner</string>
+    <string name="txt_grid">Ir Ejemplo GridView</string>
+</resources>
