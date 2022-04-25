@@ -19,13 +19,13 @@ public class EjemploGrid extends AppCompatActivity {
         vargrid= (GridView) findViewById(R.id.gvaobj1);
         ArrayList<Negocio> valores = new ArrayList<>();
         valores.add(new Negocio
-                ("Maria",R.drawable.a01,R.drawable.b01));
+                ("Bebidas \nMaria",R.drawable.a01,R.drawable.b01));
         valores.add(new Negocio
-                ("Juan",R.drawable.a02,R.drawable.b02));
+                ("cocos \nJuan",R.drawable.a02,R.drawable.b02));
         valores.add(new Negocio
-                ("Carlos",R.drawable.a03,R.drawable.b03));
+                ("Helados \nCarlos",R.drawable.a03,R.drawable.b03));
         valores.add(new Negocio
-                ("Linda",R.drawable.a04,R.drawable.b04));
+                ("Viajes \nLinda",R.drawable.a04,R.drawable.b04));
         AdapterNegocio adapter= new
                 AdapterNegocio(this,valores);
         vargrid.setAdapter(adapter);

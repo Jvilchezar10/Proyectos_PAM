@@ -39,8 +39,8 @@ public class EjemploRegistrar extends AppCompatActivity {
                 " " + varapel.getText().toString()+
                 " - " + varcorreo.getText().toString();
         varresp.setText(texto);*/
-        if (!varnombre.getText().toString().isEmpty() || !varapel.getText().toString().isEmpty()
-                || !varcorreo.getText().toString().isEmpty()
+        if (!varnombre.getText().toString().isEmpty() && !varapel.getText().toString().isEmpty()
+                && !varcorreo.getText().toString().isEmpty()
         ) {
             Intent intent = new Intent
                     (this, EjemploRecepcionar.class);
