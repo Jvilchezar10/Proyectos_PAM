@@ -6,7 +6,7 @@ de las sesiones de clase.
 para realizar proyectos con un gran peso, sin que se detenga la laptop por uso de
 la ram y puede que tarde un poco mas en terminarlos.
 
---> La carpetas estan separadas por sesiones
+--> Las carpetas estan separadas por sesiones
 
 Esto es todo lo que tengo que comentar.
 
