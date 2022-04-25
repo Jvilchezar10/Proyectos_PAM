@@ -9,23 +9,24 @@ import android.view.View;
 
 public class Menu extends AppCompatActivity {
 
+    private Intent intent;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
     }
     public void irRegistrar(View view){
-        Intent intent = new Intent
+        intent = new Intent
                 (this,EjemploRegistrar.class);
         startActivity(intent);
     }
     public void irSpinner(View view){
-        Intent intent = new Intent
+        intent = new Intent
                 (this,EjemploSpinner.class);
         startActivity(intent);
     }
     public void irGrid(View view){
-        Intent intent = new Intent
+        intent = new Intent
                 (this,EjemploGrid.class);
         startActivity(intent);
     }
