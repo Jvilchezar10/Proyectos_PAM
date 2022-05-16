@@ -48,35 +48,35 @@ class backweather extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
                     const Text(
-                      'MON',
+                      'MON', //lunes
                       style: const TextStyle(
                         fontSize: 25.0,
                         color: Colors.grey,
                       ),
                     ),
                     const Text(
-                      'TUE',
+                      'TUE', //Martes
                       style: TextStyle(
                         fontSize: 25.0,
                         color: Colors.grey,
                       ),
                     ),
                     const Text(
-                      'WED',
+                      'WED', //Miercoles
                       style: const TextStyle(
                         fontSize: 25.0,
                         color: Colors.grey,
                       ),
                     ),
                     const Text(
-                      'THU',
+                      'THU', //Jueves
                       style: const TextStyle(
                         fontSize: 25.0,
                         color: Colors.grey,
                       ),
                     ),
                     const Text(
-                      'FRI',
+                      'FRI', //Viernes
                       style: const TextStyle(
                         fontSize: 25.0,
                         color: Colors.grey,
