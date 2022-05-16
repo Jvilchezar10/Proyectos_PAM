@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sesion_o6/pages/Breakcase/home.dart';
 import 'Pages/weather/header.dart';
 
 void main() => runApp(MyApp());
@@ -9,8 +10,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Clima',
-      home: header(),
+      theme: ThemeData.light(),
+      home: home(),
     );
   }
 }
